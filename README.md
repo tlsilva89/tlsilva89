@@ -1,5 +1,6 @@
 ## Olá! me chamo Thiago Luciano 👋🏻
-Desenvolvedor Fullstack apaixonado por Javascript, com foco em criar soluções web inovadoras e eficientes. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e aprimorando minhas habilidades na OneBitCode.
+Desenvolvedor Fullstack apaixonado por Javascript, com foco em criar soluções web inovadoras e eficientes.
+Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e aprimorando minhas habilidades na OneBitCode.
 - Sou um profissional proativo e dedicado, com forte interesse em projetos open source e tecnologias que impulsionam a comunidade de desenvolvimento.
 - Busco constantemente aprender novas tecnologias e frameworks para expandir meu conhecimento e entregar resultados de alta qualidade.
 - Tenho experiência em desenvolvimento Fullstack, com foco em Javascript, e estou aberto a novas oportunidades e desafios que me permitam crescer profissionalmente.
