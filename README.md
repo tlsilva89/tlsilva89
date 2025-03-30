@@ -3,11 +3,12 @@ Desenvolvedor Fullstack apaixonado por Javascript, com foco em criar soluções 
 - Sou um profissional proativo e dedicado, com forte interesse em projetos open source e tecnologias que impulsionam a comunidade de desenvolvimento.
 - Busco constantemente aprender novas tecnologias e frameworks para expandir meu conhecimento e entregar resultados de alta qualidade.
 - Tenho experiência em desenvolvimento Fullstack, com foco em Javascript, e estou aberto a novas oportunidades e desafios que me permitam crescer profissionalmente.
+
 [![Blog](https://img.shields.io/website?label=DigitalSpark.dev&style=for-the-badge&url=https://digitalspark.dev/)](https://digitalspark.dev) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlsilva89/)
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block">
+<div>
   <img align="center" alt="archlinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,4 +21,4 @@ Desenvolvedor Fullstack apaixonado por Javascript, com foco em criar soluções 
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+</div>
