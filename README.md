@@ -4,8 +4,12 @@ Desenvolvedor Fullstack apaixonado por Javascript, com foco em criar soluções 
 - Busco constantemente aprender novas tecnologias e frameworks para expandir meu conhecimento e entregar resultados de alta qualidade.
 - Tenho experiência em desenvolvimento Fullstack, com foco em Javascript, e estou aberto a novas oportunidades e desafios que me permitam crescer profissionalmente.
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsilva89&theme=midnight-purple&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsilva89&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlsilva89&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlsilva89&repo=convoychat" />
+</a>
 
 [![Blog](https://img.shields.io/website?label=DigitalSpark.dev&style=for-the-badge&url=https://digitalspark.dev/)](https://digitalspark.dev) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlsilva89/)
 
