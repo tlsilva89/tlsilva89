@@ -23,8 +23,8 @@ Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas pela Cr
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tlsilva89" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tlsilva89&theme=neon&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlsilva89&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlsilva89&layout=compact&langs_count=8&card_width=320&theme=neon&show_icons=true" />
 </a>
