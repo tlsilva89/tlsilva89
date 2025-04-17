@@ -1,15 +1,15 @@
 ## Olá! me chamo Thiago Luciano 👋🏻
 Sou um profissional apaixonado por tecnologia, sempre em busca de novos conhecimentos e atualizações neste campo dinâmico e em constante evolução.
 
-Atualmente, estou como: 
-• Monitor de Qualidade na Winover, onde aplico minha atenção aos detalhes e habilidades analíticas;
-• Desenvolvedor Web, realizando projetos para pequenos negócios utilizando HTML, CSS e JavaScript, React, Typescript e TailwindCSS;
-• Estudando Análise e Desenvolvimento pela Cruzeiro do Sul
+Atualmente, estou como: <br>
+• Monitor de Qualidade na Winover, onde aplico minha atenção aos detalhes e habilidades analíticas;<br>
+• Desenvolvedor Web, realizando projetos para pequenos negócios utilizando HTML, CSS e JavaScript, React, Typescript e TailwindCSS;<br>
+• Estudando Análise e Desenvolvimento pela Cruzeiro do Sul<br>
 
-Para o futuro busco:
-• Aprimorar continuamente minhas habilidades como desenvolvedor;
-• Enfrentar desafios mais complexos na área de tecnologia;
-• Participar de projetos robustos e inovadores que impulsionem meu crescimento profissional.
+Para o futuro busco:<br>
+• Aprimorar continuamente minhas habilidades como desenvolvedor;<br>
+• Enfrentar desafios mais complexos na área de tecnologia;<br>
+• Participar de projetos robustos e inovadores que impulsionem meu crescimento profissional.<br>
 
 Estou sempre aberto a novas oportunidades que me permitam expandir meus horizontes e contribuir significativamente para o mundo da tecnologia.
 
