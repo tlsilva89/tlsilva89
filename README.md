@@ -1,9 +1,17 @@
 ## Olá! me chamo Thiago Luciano 👋🏻
-Desenvolvedor Fullstack apaixonado por Javascript, com foco em criar soluções web inovadoras e eficientes.<br>
-Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e aprimorando minhas habilidades na OneBitCode.
-- Sou um profissional proativo e dedicado, com forte interesse em projetos open source e tecnologias que impulsionam a comunidade de desenvolvimento.
-- Busco constantemente aprender novas tecnologias e frameworks para expandir meu conhecimento e entregar resultados de alta qualidade.
-- Tenho experiência em desenvolvimento Fullstack, com foco em Javascript, e estou aberto a novas oportunidades e desafios que me permitam crescer profissionalmente.
+Sou um profissional apaixonado por tecnologia, sempre em busca de novos conhecimentos e atualizações neste campo dinâmico e em constante evolução.
+
+Atualmente, estou como: 
+• Monitor de Qualidade na Winover, onde aplico minha atenção aos detalhes e habilidades analíticas;
+• Desenvolvedor Web, realizando projetos para pequenos negócios utilizando HTML, CSS e JavaScript, React, Typescript e TailwindCSS;
+• Estudando Análise e Desenvolvimento pela Cruzeiro do Sul
+
+Para o futuro busco:
+• Aprimorar continuamente minhas habilidades como desenvolvedor;
+• Enfrentar desafios mais complexos na área de tecnologia;
+• Participar de projetos robustos e inovadores que impulsionem meu crescimento profissional.
+
+Estou sempre aberto a novas oportunidades que me permitam expandir meus horizontes e contribuir significativamente para o mundo da tecnologia.
 
 [![Blog](https://img.shields.io/website?label=DigitalSpark.dev&style=for-the-badge&url=https://digitalspark.dev/)](https://digitalspark.dev) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlsilva89/)
 
