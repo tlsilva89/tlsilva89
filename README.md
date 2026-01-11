@@ -2,7 +2,7 @@
   <h1>👋🏻 Olá! Eu sou Thiago Luciano</h1>
   <p><em>Desenvolvedor FullStack | Arch Linux Enthusiast | Tech Innovator</em></p>
 
-  <a href="https://digitalspark.dev"><img src="https://img.shields.io/website?label=DigitalSpark.dev&style=for-the-badge&url=https://digitalspark.dev/&color=FF6B6B" /></a>
+  <a href="https://dspk.io"><img src="https://img.shields.io/website?label=DigitalSpark.dev&style=for-the-badge&url=https://digitalspark.dev/&color=FF6B6B" /></a>
   <a href="https://www.linkedin.com/in/tlsilva89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/tlsilva89"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
